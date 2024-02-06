@@ -1,0 +1,24 @@
+.App {
+  margin: 40px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input[type="text"] {
+  width: 10rem;
+  margin-bottom: 0.5rem;
+}
+
+input[type="submit"] {
+  width: 10rem;
+}
+
+.box {
+  border: 1px solid black;
+  margin-bottom: 0.5rem;
+  padding: 0 1rem 1rem 1rem;
+  width: 10rem;
+}
